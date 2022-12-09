@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "979903977980",
+    "project_id": "fir-react-tutorial-10d0b",
+    "storage_bucket": "fir-react-tutorial-10d0b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979903977980:android:769e22bf91a4f423057a79",
+        "android_client_info": {
+          "package_name": "com.example.liveeasymobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "979903977980-rcvoj0h9mapktisggphprv46p2v193qh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMf9yuTdO305f_GpwqHtjhHtTK9FFSf94"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "979903977980-rcvoj0h9mapktisggphprv46p2v193qh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
